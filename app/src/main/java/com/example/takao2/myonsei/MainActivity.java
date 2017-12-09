@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 try {
-                    // インテント作成です
+                    // インテント作成ですよ
                     Intent intent = new Intent(
                             RecognizerIntent.ACTION_RECOGNIZE_SPEECH);
 
